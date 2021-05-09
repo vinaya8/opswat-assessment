@@ -1,6 +1,7 @@
 .env
 .DS_Store
 files/
+.idea/
 target/
 pom.xml.tag
 pom.xml.releaseBackup
